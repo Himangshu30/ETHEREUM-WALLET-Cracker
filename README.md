@@ -1,6 +1,5 @@
 # ETHEREUM-WALLET-Cracker
 
-# Ethereum Wallet Cracker
 
 
 A script to steal Ether from wallets suffering from insufficient entropy during key generation.
